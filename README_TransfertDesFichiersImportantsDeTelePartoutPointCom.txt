@@ -401,3 +401,52 @@ Pages reliés à celle-ci
     YWA
     Zeebee io the workflow
     Zend
+====================================================================
+http://telepartout.com/DataMining
+Définition:
+
+Pages reliés que Daniel va garder
+OUT Adisq OUT
+    ArtOfHosting
+    AvantDeVendre
+    Bienvenue
+    BlockChain
+    BSNE
+    CMS
+    CompetionDirecteOuPartenaires
+    CoteDeCredit
+    CRM
+ ?  CXM
+    Data
+    DataMining
+?   ELance
+?   EnSpiral
+    EtatsFinanciers
+    EventManagementSystem
+?    gong.io
+    InnovationComesFromTheSoul
+OUT    JVM2
+OUT    JVMFormation
+    Mission
+    OffreDeService
+    OffreDeServiceRedirigezVotreTrafficVersLesMediasSociaux
+    Partenaire ou compétiteur
+    PlanDaffaire
+    PlanDaffairePourEmpruntMonteregie
+    Pricing
+    Ressources
+?   RotationCompanyInsight
+?   RotationCompanySeenFromTheOutside
+OUT    ScreenCast
+    Security
+    SEOoffreDeServices
+    SystemeDeVote
+    Technologie
+    TechStuff
+?   TouchePHD
+    UseCase
+?   VMDesjardins
+    Webinar
+    WebinarPlanning
+OUT Woopi.com
+    YPblogueProcedure
